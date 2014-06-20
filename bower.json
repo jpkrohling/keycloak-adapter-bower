@@ -1,0 +1,13 @@
+{
+  "name": "keycloak",
+  "version": "1.0.3",
+  "main": "keycloak.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "description": "A bower project for the keycloak javascript adapter.",
+  "keywords": [
+    "jquery",
+    "component"
+  ],
+}
