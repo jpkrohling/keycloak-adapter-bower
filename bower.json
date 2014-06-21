@@ -1,6 +1,6 @@
 {
   "name": "keycloak",
-  "version": "1.0.3",
+  "version": "0.0.3",
   "main": "keycloak.js",
   "ignore": [
     "**/.*",
@@ -10,6 +10,7 @@
   "keywords": [
     "keycloak",
     "sso",
-    "oauth"
+    "oauth",
+    "java"
   ]
 }
