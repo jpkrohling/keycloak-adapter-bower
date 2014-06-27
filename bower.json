@@ -1,7 +1,7 @@
 {
   "name": "keycloak",
   "version": "0.0.3",
-  "main": "keycloak.js",
+  "main": "dist/keycloak.js",
   "ignore": [
     "**/.*",
     "keycloak/"
